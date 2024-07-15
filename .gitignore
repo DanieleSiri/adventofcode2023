@@ -1,6 +1,9 @@
+# ignora tutti i python files
 *.py
-python/
-day_13/day_13_me.go
-day_13/output
+
 template
 new_day.sh
+/day_13/day_13_me.go
+/day_13/output
+python/
+>>>>>>> master
