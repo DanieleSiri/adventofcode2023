@@ -1,0 +1,8 @@
+# ignora tutti i python files
+*.py
+
+template
+new_day.sh
+/day_13/day_13_me.go
+/day_13/output
+python/
