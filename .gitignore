@@ -1,0 +1,6 @@
+*.py
+python/
+day_13/day_13_me.go
+day_13/output
+template
+new_day.sh
